@@ -1,0 +1,1 @@
+Thư mục này mô tả dữ liệu mô phỏng được sử dụng trong nghiên cứu về đô thị thông minh.
