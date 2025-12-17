@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Phân tích dữ liệu lớn cho các ứng dụng đô thị thông minh"
+authors:
+  - family-names: Võ
+    given-names: Thị Tuyết Hương
+version: 1.0.0
+date-released: 2025-12-17
+license: MIT
